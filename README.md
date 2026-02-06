@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## Hi, I'm Santhosh Nayak
 
 I work on backend and distributed systems with a focus on
