@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**santnayak/santnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Santhosh Nayak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on backend and distributed systems with a focus on
+LLM, AI agents, auditability, and security-oriented tooling.
+
+### What I work on
+- system architecture and backend services
+- AI agent execution and tool safety
+- auditability, logging, and policy enforcement
+- translating product requirements into technical delivery
+
+### How I work
+- design systems before scaling them
+- document decisions (ADRs, diagrams)
+- prioritize observability and operability
+- balance delivery speed with long-term safety
+
+### Notes & Projects
+- Technical notes: https://santnayak.github.io
+- Selected projects: https://santnayak.github.io/projects
+
+
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-nayak-61660019/)
